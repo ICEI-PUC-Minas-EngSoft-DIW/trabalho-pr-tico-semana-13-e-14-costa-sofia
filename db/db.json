@@ -1,18 +1,119 @@
 {
-  "usuarios": [
+  "gallery": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "id": "3",
+      "titulo": "Grafite Indiano",
+      "descricao": "Arte urbana inspirada na cultura indiana.",
+      "conteudo": "Ilustração detalhada de graffiti com elementos culturais da Índia.",
+      "categoria": "Arte de Rua",
+      "autor": "Leonardo AI",
+      "data": "2025-03-30",
+      "imagem": "https://cdn.leonardo.ai/users/62103611-9796-4122-8589-b5731d68e6bd/generations/f5906da8-87e4-451f-a69d-128fc2704212/Ilustration_V2_indian_graffiti_0.jpg",
+      "price": 220
     },
     {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "id": "4",
+      "titulo": "Grafite em Cidade Urbana",
+      "descricao": "Arte urbana detalhando grafites nas paredes da cidade.",
+      "conteudo": "Ilustração mostrando a combinação de cores e formas de graffiti urbano.",
+      "categoria": "Arte de Rua",
+      "autor": "Leonardo AI",
+      "data": "2025-03-30",
+      "imagem": "https://cdn.leonardo.ai/users/62103611-9796-4122-8589-b5731d68e6bd/generations/eb233b7e-c529-4ea9-aa6d-27ae9d16eca7/Ilustration_V2_city_graffiti_0.jpg",
+      "price": 210
+    },
+    {
+      "id": "5",
+      "titulo": "Grafite Festivo",
+      "descricao": "Grafite colorido com temática festiva e alegre.",
+      "conteudo": "Fotografia mostrando cores vibrantes em mural urbano.",
+      "categoria": "Arte de Rua",
+      "autor": "Pixabay",
+      "data": "2025-03-30",
+      "imagem": "https://cdn.pixabay.com/photo/2019/12/25/19/57/grafitti-4719165_1280.jpg",
+      "price": 190
+    },
+    {
+      "id": "6",
+      "titulo": "Grafite McDonald's",
+      "descricao": "Arte urbana retratando marca famosa em estilo grafite.",
+      "conteudo": "Fotografia urbana mostrando publicidade e arte de rua combinadas.",
+      "categoria": "Arte de Rua",
+      "autor": "Pixabay",
+      "data": "2025-03-30",
+      "imagem": "https://cdn.pixabay.com/photo/2017/04/13/14/15/mcdonalds-2227657_1280.jpg",
+      "price": 170
+    },
+    {
+      "id": "7",
+      "titulo": "Grafite Político Pintado",
+      "descricao": "Obra de grafite política com cores vibrantes e formas impactantes.",
+      "conteudo": "Ilustração de graffiti político mostrando a força da mensagem urbana.",
+      "categoria": "Arte de Rua",
+      "autor": "Leonardo AI",
+      "data": "2025-03-30",
+      "imagem": "https://cdn.leonardo.ai/users/62103611-9796-4122-8589-b5731d68e6bd/generations/cb3254d5-5e90-4b27-95b4-344936b6913e/Ilustration_V2_political_graffiti_painting_0.jpg",
+      "price": 230
+    },
+    {
+      "id": "8",
+      "titulo": "História do Grafite",
+      "descricao": "Fotografia histórica de grafite representando diversas eras da arte urbana.",
+      "conteudo": "Imagem de grafite mostrando evolução da arte de rua.",
+      "categoria": "Arte de Rua",
+      "autor": "Leonardo AI",
+      "data": "2025-03-30",
+      "imagem": "https://cdn.leonardo.ai/users/62103611-9796-4122-8589-b5731d68e6bd/generations/3bab1f5b-ad39-452e-ab04-bc6dafc2c9b9/Absolute_Reality_v16_photograph_history_graffiti_0.jpg",
+      "price": 240
+    },
+    {
+      "id": "9",
+      "titulo": "Grafite Contemporâneo",
+      "descricao": "Arte urbana contemporânea em mural público.",
+      "conteudo": "Fotografia mostrando detalhes e cores de grafite moderno.",
+      "categoria": "Arte de Rua",
+      "autor": "Pixabay",
+      "data": "2025-03-30",
+      "imagem": "https://cdn.pixabay.com/photo/2018/05/22/00/43/graffiti-3420171_1280.jpg",
+      "price": 200
+    },
+    {
+      "id": "6af9",
+      "titulo": "Grafite Japonês",
+      "descricao": "Arte de rua inspirada na cultura japonesa.",
+      "conteudo": "Ilustração de graffiti com temática oriental e cores vibrantes.",
+      "categoria": "Arte de Rua",
+      "autor": "Leonardo AI",
+      "data": "2025-11-02",
+      "imagem": "https://cdn.leonardo.ai/.../grafite_japones_0.jpg",
+      "price": 250
+    },
+    {
+      "id": "1a3a",
+      "titulo": "Grafite Japonês Atualizado",
+      "autor": "Leonardo AI",
+      "descricao": "Versão revisada do grafite japonês.",
+      "categoria": "Arte de Rua",
+      "imagem": "https://cdn.leonardo.ai/.../grafite_japones_atualizado.jpg",
+      "price": 260
+    },
+    {
+      "id": "9ebc",
+      "titulo": "Grafite Japonês Atualizado",
+      "autor": "Leonardo AI",
+      "descricao": "Tetse",
+      "categoria": "Arte de Rua",
+      "imagem": "Tetse",
+      "price": 300
+    },
+    {
+      "id": "199a",
+      "titulo": "Teste",
+      "autor": "Leonardo AI",
+      "descricao": "Teste",
+      "categoria": "Arte de Rua",
+      "imagem": "Tetse",
+      "price": 200
     }
   ]
 }

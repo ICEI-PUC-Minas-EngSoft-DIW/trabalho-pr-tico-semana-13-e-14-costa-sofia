@@ -1,0 +1,101 @@
+*{box-sizing: border-box;}
+
+body
+{
+    font-family:'Langar', cursive;;
+    border: none;
+    margin: 0;
+    background-color: rgba(0, 0, 0);
+    color: white;  
+    font-size: 1.3rem;
+}
+
+/* HOME HEADER START */
+
+.titlehome{
+    font-family: 'Kavoon', cursive;
+    font-size: 4em !important;
+    background: linear-gradient(180deg, #8C00FB 21.88%, rgba(255, 10, 186, 0.72) 99.98%, rgba(248, 47, 240, 0.07) 99.99%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    width: 230px;
+}
+
+/* HOME HEADER END */
+
+/* DETALHES START */
+#carousel-container .carousel-item img {
+    width: 100%;          
+    height: 500px;        
+    object-fit: cover;  
+}
+
+.detalhescarousel{
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    filter: saturate(0);
+    transition: 2s;
+}
+
+.detalhescarousel:hover
+{
+    filter: saturate(2);
+}
+/* DETALHES END */
+
+/* ITENS START */
+.itenstitle{
+    font-family: 'Kavoon', cursive;
+    font-size: 1.5em !important;
+    background: linear-gradient(180deg, #8C00FB 21.88%, rgba(255, 10, 186, 0.72) 99.98%, rgba(248, 47, 240, 0.07) 99.99%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#itens .container-fluid {
+    padding-left: 20vh;
+    padding-right: 20vh;
+}
+/* ITENS END */
+
+/* SOBRE START */
+#sobre .container-fluid {
+    padding-left: 5vh;
+    padding-right: 5vh;
+}
+/* SOBRE END */
+
+/* INFORMAÇÕES GERAIS START */
+#informacoes-gerais .container-fluid {
+    padding-left: 5vh;
+    padding-right: 5vh;
+}
+#informacoes-gerais{
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#item-detalhes {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;   
+    text-align: left;     /* centraliza o texto */
+  }
+  
+
+/* INFORMAÇÕES GERAIS END */
+
+
+/* FOTOS VINCULADAS START */
+
+#fotos-vinculadas .container-fluid {
+    max-width: 150vh;
+}
+
+/* FOTOS VINCULADAS END */
+
