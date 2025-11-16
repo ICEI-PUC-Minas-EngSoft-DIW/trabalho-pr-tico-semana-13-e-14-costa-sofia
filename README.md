@@ -9,15 +9,13 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Sofia Ferreira Costa
+- Matricula: 902830
+- Proposta de projeto escolhida: Galeria e obras.
+- Breve descrição sobre seu projeto: O projeto se trata de uma galeria online que expõe e vende pinturas e fotografias ligadas à arte de rua.
 
 **Print da tela com a implementação**
 
-<< Coloque aqui uma breve explicação da implementação feita nessa etapa>>
+<< Implementei uma tela de gráficos de artes por autor>>
+![Print Tela Gráficos (tive um problema com o node no meu computador, precisei comprar mais memórioa mas não chegará á tempo)](public/assets/img/telagraficos.png)
 
-<<  COLOQUE A IMAGEM TELA 1 AQUI >>
-
-<<  COLOQUE A IMAGEM TELA 2 AQUI >>
